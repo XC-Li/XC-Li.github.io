@@ -1,6 +1,13 @@
 # Self Introduction
-Hi, I am Xiaochi Li. Welcome to my homepage.  
-I am a Master Student studying Data Science in George Washington University, and I am looking forward to become a data scientist after my graduation in May, 2019.
+|  |  |
+|----|----|
+|<img src='image/my_photo.jpg' width="300" height="300">|Hi, I am **Xiaochi (George) Li**. Welcome to my homepage.  I am a Master Student studying **Data Science** in George Washington University, and I am looking forward to become a data scientist after my graduation in **May, 2019**.|
+
+-----------------------
+# Contact Info
+- Mail: george_li@gwu.edu
+- LinkedIn: https://www.linkedin.com/in/xiaochi-li/
+- GitHub: https://github.com/XC-Li
 
 -----------------------
 
@@ -57,5 +64,9 @@ I am a Master Student studying Data Science in George Washington University, and
 - [View on GitHub](https://github.com/XC-Li/SQL_Visualization_Practice/tree/master/SQL_Duke)
 - Tools: SQL
 
-
 # Fun Facts
+- I am a fan of science fiction, animation and classical music.
+- I like play flute and chromatic harmonica. Watch my work online:
+  - [Always With Me From Spirited Away - Flute and Piano](https://www.bilibili.com/video/av15967598)
+  - [Snow Halation From Love Live - Chromatic Harmonica](https://www.bilibili.com/video/av1916820)
+  - [As the moon, so beautiful - Chromatic Harmonica and Flute](https://v.qq.com/x/page/u05258soj7l.html)
