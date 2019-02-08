@@ -2,7 +2,7 @@
 
 |  |  |
 |----|----|
-|<img src='image/my_photo.jpg' width="100" height="100">|Hi, I am **Xiaochi (George) Li**.  I am a Master Student studying **Data Science** in George Washington University, and I am looking forward to become a data scientist after my graduation in **May, 2019**.|
+|![](./image/my_photo.jpg)|Hi, I am **Xiaochi (George) Li**.  I am a Master Student studying **Data Science** in George Washington University, and I am looking forward to become a data scientist after my graduation in **May, 2019**.|
 
 -----------------------
 # Contact Info
@@ -27,7 +27,7 @@
 - Bayesian Modeling with JAGS (Hierarchical Model, Model Comparison, Generalized Linear Model)
 - Natural Language Processing 
 
-## Business Skill
+## 3. Business Skill
 - Bachelor major in Economics
 - Data Visualization 
 
