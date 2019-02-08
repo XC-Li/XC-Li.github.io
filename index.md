@@ -1,7 +1,8 @@
-# Self Introduction
+# Welcome!
+
 |  |  |
 |----|----|
-|<img src='image/my_photo.jpg' width="300" height="300">|Hi, I am **Xiaochi (George) Li**. Welcome to my homepage.  I am a Master Student studying **Data Science** in George Washington University, and I am looking forward to become a data scientist after my graduation in **May, 2019**.|
+|<img src='image/my_photo.jpg' width="100" height="100">|Hi, I am **Xiaochi (George) Li**.  I am a Master Student studying **Data Science** in George Washington University, and I am looking forward to become a data scientist after my graduation in **May, 2019**.|
 
 -----------------------
 # Contact Info
