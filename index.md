@@ -14,9 +14,7 @@
 
 # Technical Skills 
 
-|  |  |
-|----|----|
-|<img src="./image/ds_3_circle.png" width="300" height="300">|My understanding of these three parts: <br> Business skills translate a business need to the objective of a data science project, and feedback the result of the model into business insight <br> math and statistics is the guide to build, evaluate and improve model <br> Computer Science is the underlying block of all these data science tools and the tool to build something new or improve something others made <br> So, a good data scientist need to have all these skills|
+<img src="./image/ds_3_circle.png" width="300" height="300">
 
 ## 1. Computer Science / IT
 - Algorithm and Data Structure (Divide & Conquer, Greedy, Dynamic Programming, DFS, BFS, Backtracking, Branch & Bound)
