@@ -88,3 +88,4 @@
   - [Always With Me From Spirited Away - Flute and Piano](https://www.bilibili.com/video/av15967598)
   - [Snow Halation From Love Live - Chromatic Harmonica](https://www.bilibili.com/video/av1916820)
 - I also like traveling in the nature.
+![](./image/yellow_stone.JPG)
