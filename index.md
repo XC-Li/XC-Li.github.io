@@ -2,7 +2,7 @@
 
 |  |  |
 |----|----|
-|![](./image/my_photo.jpg)|Hi, I am **Xiaochi (George) Li**, a Master Student studying **Data Science** in George Washington University. <br> I am looking forward to become a data scientist after my graduation in **May, 2019**.|
+|![](./image/my_photo.jpg)|Hi, I am **Xiaochi (George) Li**, a Master Student studying **Data Science** in George Washington University.<br>As an aspiring data scientist, I hope to deliver concise and efficient solutions with my strong machine learning and programming skills.<br><br> I am seeking full time **data scientist / data analyst** position after my graduation in **May, 2019**. <br>[Download Resume](./document/Resume_Xiaochi_Li.pdf) <br> [Download Transcript](./document/Transcript_Xiaochi_Li.pdf) GPA: 4.0/4.0 |
 
 -----------------------
 # Contact Info
@@ -87,5 +87,5 @@
 - I like play flute and chromatic harmonica. 
   - [Always With Me From Spirited Away - Flute and Piano](https://www.bilibili.com/video/av15967598)
   - [Snow Halation From Love Live - Chromatic Harmonica](https://www.bilibili.com/video/av1916820)
-- I also like traveling in the nature.
+- I also like traveling in the nature. Photo was taken in Yellow Stone
 ![](./image/yellow_stone.JPG)
