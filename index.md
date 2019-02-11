@@ -1,4 +1,5 @@
 # Welcome!
+Quick Link: [Technical Skills](./index.md#technical-skills)|[Projects](./index.md#projects-and-courses)
 
 |  |  |
 |----|----|
