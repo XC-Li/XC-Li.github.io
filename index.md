@@ -1,9 +1,9 @@
 # Welcome!
-Quick Link: [Technical Skills](./index.md#technical-skills)|[Projects](./index.md#projects-and-courses)
+Quick Link: [Technical Skills](#technical-skills)|[Projects](#projects-and-courses)|
 
 |  |  |
 |----|----|
-|![](./image/my_photo.jpg)|Hi, I am **Xiaochi (George) Li**, a Master Student studying **Data Science** in George Washington University.<br>As an aspiring data scientist, I hope to deliver concise and efficient solutions with my strong machine learning and programming skills.<br><br> I am seeking full time **data scientist / data analyst** position after my graduation in **May, 2019**. <br>[Download Resume](./document/Resume_Xiaochi_Li.pdf) <br> [Download Transcript](./document/Transcript_Xiaochi_Li.pdf) GPA: 4.0/4.0 |
+|![](./image/my_photo.jpg)|Hi, I am **Xiaochi (George) Li**, a Master Student studying **Data Science** in George Washington University.<br>As an aspiring data scientist, I hope to deliver concise and efficient solutions with my strong machine learning and programming skills.<br><br> I am seeking full time **data scientist / data analyst** position after my graduation in **May, 2019**. <br>[Download Resume](./document/Resume_Xiaochi_Li.pdf) <br> [Download Transcript](./document/Transcript_Xiaochi_Li.pdf) GPA: 4.0/4.0 <br>I support anti-996 (work 9 a.m.–9 p.m., 6 days per week) movement: [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)|
 
 -----------------------
 # Contact Info
