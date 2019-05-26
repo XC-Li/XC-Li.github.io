@@ -1,15 +1,20 @@
 # Welcome!
 Quick Link: [Technical Skills](#technical-skills)|[Projects](#projects-and-courses)|
+-----------------------
+# Contact Info
+- <img src="./image/gmail.png" width="20" height="20"> [george_li@gwu.edu](mailto:george_li@gwu.edu)
+- <img src="./image/In-Blue-14.png" width="20" height="20"> [https://www.linkedin.com/in/xiaochi-li/](https://www.linkedin.com/in/xiaochi-li/)
+- <img src="./image/GitHub-Mark-32px.png" width="20" height="20"> [https://github.com/XC-Li](https://github.com/XC-Li)
 
 |  |  |
 |----|----|
 |![](./image/my_photo.jpg)|Hi, I am **Xiaochi (George) Li**, a Master Student studying **Data Science** in George Washington University.<br>As an aspiring data scientist, I hope to deliver concise and efficient solutions with my strong machine learning and programming skills.<br><br> I am seeking full time **data scientist / data analyst** position after my graduation in **May, 2019**. <br>[Download Resume](./document/Resume_Xiaochi_Li.pdf) <br> [Download Transcript](./document/Transcript_Xiaochi_Li.pdf) GPA: 4.0/4.0 <br>I support anti-996 (work 9 a.m.–9 p.m., 6 days per week) movement: [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)|
 
------------------------
-# Contact Info
-- Mail: [george_li@gwu.edu](mailto:george_li@gwu.edu)
-- LinkedIn: [https://www.linkedin.com/in/xiaochi-li/](https://www.linkedin.com/in/xiaochi-li/)
-- GitHub: [https://github.com/XC-Li](https://github.com/XC-Li)
+---------
+# Recommendations
+![](./image/daniel_recommendtaion.png)
+![](./image/glen_recommendation.png)
+![](./image/james_recommendation.png)
 
 -----------------------
 
@@ -36,6 +41,16 @@ Quick Link: [Technical Skills](#technical-skills)|[Projects](#projects-and-cours
 ---------------------------------------------
 
 # Projects and Courses 
+
+## Natural Language Processing: Stance Detection and Stance Classification
+- [View on Github](https://github.com/XC-Li/FiscalNote_Project)
+- [View on Youtube](https://youtu.be/K4Q5sWeMpWk)
+- Tools: Sklearn, NLTK, gensim, spaCy
+- Extracted relevant speech from over 40K XML congressional records, developed regular expression rules, evaluated several machine learning models (Random Forest, XGBoost, Logistic Regression) to build a two-stage model for stance detection and stance classification, and achieved 90% F1 score
+- Developed a machine learning pipeline with modular design to reduce duplicated code by 50% and improve the speed of text processing by 4 times with parallelization
+- Encapsulated the pipeline as a package and wrote unit-test and documentation for deployment
+
+
 ## Machine Learning: Loan Default Prediction 
 - [View on GitHub](https://github.com/XC-Li/Loan_Default_Prediction)
 - Tools: Scikit Learn
