@@ -1,11 +1,11 @@
 # Welcome!
 Quick Link: [Technical Skills](#technical-skills)|[Projects](#projects-and-courses)|
 
------------------------
-# Contact Info
 - <img src="./image/gmail.png" width="20" height="20"> [george_li@gwu.edu](mailto:george_li@gwu.edu)
 - <img src="./image/In-Blue-14.png" width="20" height="20"> [https://www.linkedin.com/in/xiaochi-li/](https://www.linkedin.com/in/xiaochi-li/)
 - <img src="./image/GitHub-Mark-32px.png" width="20" height="20"> [https://github.com/XC-Li](https://github.com/XC-Li)
+
+--------------
 
 |  |  |
 |----|----|
