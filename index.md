@@ -1,5 +1,6 @@
 # Welcome!
 Quick Link: [Technical Skills](#technical-skills)|[Projects](#projects-and-courses)|
+
 -----------------------
 # Contact Info
 - <img src="./image/gmail.png" width="20" height="20"> [george_li@gwu.edu](mailto:george_li@gwu.edu)
@@ -42,9 +43,9 @@ Quick Link: [Technical Skills](#technical-skills)|[Projects](#projects-and-cours
 
 # Projects and Courses 
 
-## Natural Language Processing: Stance Detection and Stance Classification
+## Internship Project: Stance Detection and Stance Classification
 - [View on Github](https://github.com/XC-Li/FiscalNote_Project)
-- [View on Youtube](https://youtu.be/K4Q5sWeMpWk)
+- [**Watch Presentation on Youtube**](https://youtu.be/K4Q5sWeMpWk)
 - Tools: Sklearn, NLTK, gensim, spaCy
 - Extracted relevant speech from over 40K XML congressional records, developed regular expression rules, evaluated several machine learning models (Random Forest, XGBoost, Logistic Regression) to build a two-stage model for stance detection and stance classification, and achieved 90% F1 score
 - Developed a machine learning pipeline with modular design to reduce duplicated code by 50% and improve the speed of text processing by 4 times with parallelization
